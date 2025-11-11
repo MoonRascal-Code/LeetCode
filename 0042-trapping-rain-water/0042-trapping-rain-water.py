@@ -4,9 +4,7 @@ class Solution:
         volume = 0 
         
         for ind,h in enumerate(height):
-            print(h)
             while stack and height[stack[-1]] < h:
-                
                 prev_ind = stack.pop() 
                 
                 if not stack:
