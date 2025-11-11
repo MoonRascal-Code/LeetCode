@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
 ## Greedy
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
 ## Array
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -35,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
