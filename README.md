@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,9 +55,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
