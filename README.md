@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
@@ -128,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
