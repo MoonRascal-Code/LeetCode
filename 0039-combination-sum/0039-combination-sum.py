@@ -1,16 +1,22 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        result = [] 
-        def dfs(csum, index, path):
-            # 종료 조건
-            if csum < 0: # 음수
+        path = [] 
+        res = [] 
+        
+        def dfs(start):
+            ele_sum = sum(path)
+            if target < ele_sum:
                 return 
-            if csum == 0: # 정답인 경우 
-                result.append(path)
+
+            elif target == ele_sum:
+                res.append(path[:])
                 return 
-            
-            for i in range(index, len(candidates)):
-                dfs(csum - candidates[i], i, path+[candidates[i]])
-            
-        dfs(target,0,[])
-        return result 
+        
+            # for c in candidates: # 조합이기 때문에 
+            for ind in range(start,len(candidates)):
+                path.append(candidates[ind])
+                dfs(ind)
+                path.pop()
+
+        dfs(0)
+        return res
