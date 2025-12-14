@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -125,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0743-network-delay-time](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0743-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0743-network-delay-time](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0743-network-delay-time) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
