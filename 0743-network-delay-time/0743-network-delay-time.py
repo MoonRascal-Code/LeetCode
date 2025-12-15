@@ -13,7 +13,8 @@ class Solution:
         # 큐 순회 
         while Q:
             time, node =heapq.heappop(Q)
-            if node not in dist:
+            if node not in dist: 
+                # dist 에 항상 최소 값만 저장되게 하기 위해서, 
                 dist[node] = time
                 for v,t in graph[node]:
                     alt = time + t 
