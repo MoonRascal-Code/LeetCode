@@ -15,8 +15,7 @@ class Solution:
 
         while queue: 
             depth +=1 
-            for _ in range(len(queue)):
-                # TN(3)
+            for _ in range(len(queue)): # TN(3)
                 cur_root = queue.popleft()
                 if left:=cur_root.left:
                     queue.append(left)
