@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -187,9 +188,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
