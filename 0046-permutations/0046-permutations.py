@@ -1,19 +1,17 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        # return list(itertools.permutations(nums))
-        def dfs(elements):
-            if len(elements) == 0:
-                result.append(prev_elements[:])
+        result = [] 
+        path = [] 
+        def dfs(elements,path):
+            if len(nums) == len(path):
+                result.append(path)
+                # path.pop()
+                return
             
             for i in elements:
                 next_elements = elements[:]
                 next_elements.remove(i)
-                
-                prev_elements.append(i)
-                dfs(next_elements)
-                prev_elements.pop()
-        
-        result = [] 
-        prev_elements = [] 
-        dfs(nums)
+                dfs(next_elements,path+[i])
+
+        dfs(nums,[])
         return result
