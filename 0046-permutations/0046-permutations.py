@@ -15,3 +15,4 @@ class Solution:
 
         dfs(nums,[])
         return result
+    # return list(itertools.permutation(nums))
