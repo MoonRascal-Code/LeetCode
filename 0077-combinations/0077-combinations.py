@@ -1,17 +1,14 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        result = []
-        def dfs(elements,ind,k):
-            # 종료 및 백트랙킹 
-            if k == 0:
+        def dfs(elements,num,length):
+            if length == 0:
                 result.append(elements[:])
-                return 
+                return  
             
-            for i in range(ind,n+1):
+            for i in range(num,n+1):
                 elements.append(i)
-                dfs(elements,i+1,k-1)
+                dfs(elements,i+1,length-1)
                 elements.pop()
+        result = [] 
         dfs([],1,k)
         return result
-
-# return list(itertools.combinations(range(1,n+1),k))
