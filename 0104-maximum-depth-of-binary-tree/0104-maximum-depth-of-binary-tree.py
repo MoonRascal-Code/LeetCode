@@ -8,20 +8,18 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if root is None:
             return 0 
-        # BFS 
-        # deque 
-        que = collections.deque([root])
-        depth = 0 
 
+        que = collections.deque([root])
+        depth = 0
+        
         while que:
             depth +=1 
-            for _ in range(len(que)): # len(que)는 고정된 값임 
+            for _ in range(len(que)):
                 cur = que.popleft()
-                print(cur.val, depth)
-                if cur.left:
-                    que.append(cur.left) # 9 
-                if cur.right:
-                    que.append(cur.right) # 20 
 
+                if cur.left:
+                    que.append(cur.left)
+                if cur.right:
+                    que.append(cur.right)
         return depth 
 
