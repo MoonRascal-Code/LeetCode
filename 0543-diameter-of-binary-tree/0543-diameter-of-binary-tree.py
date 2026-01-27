@@ -7,16 +7,16 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         self.longest = 0 
-        def dfs(node:TreeNode):
-            if node is None:
-                return -1
+        def dfs(node):
+            if not node: 
+                return -1  # 존재하지 않은 노드에 -1 부여 
             
-            left = dfs(node.left)
-            right = dfs(node.right)
+            left = dfs(node.left)  #2 / 4 5 / -1 -1 : -1 -1  
+            right = dfs(node.right) 
 
-            self.longest = max(self.longest,left+right+2) # 거리값, 최대 길이 
-            # 왼쪽 부터 오른쪽 reaf노드 까지의 거리 
-            return max(left,right)+1 # 상태 값 
-
-        dfs(root)        
+            self.longest = max(self.longest, left+right+2)
+            return max(left,right) +1 
+            
+        dfs(root)
         return self.longest
+            
