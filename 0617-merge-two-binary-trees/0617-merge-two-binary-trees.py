@@ -13,10 +13,10 @@ class Solution:
 
                 t1.left= dfs(t1.left, t2.left)
                 t1.right = dfs(t1.right, t2.right)
+                return t1
 
             else:
-                if t2:
-                    t1 = t2
-            return t1
+                return t1 or t2
+
 
         return dfs(root1, root2)
