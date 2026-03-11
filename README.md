@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0136-single-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
