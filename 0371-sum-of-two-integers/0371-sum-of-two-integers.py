@@ -27,6 +27,6 @@ class Solution:
         
         result = int(''.join(result[::-1]),2) &MASK # int(,2) 는 2진수라는 뜻 
 
-        if result > INT_MAX:
-            result = ~(result^MASK)
+        if result > INT_MAX: # 음수 일 때 
+            result = ~(result^MASK) # 음수 만드는 공식 
         return result
