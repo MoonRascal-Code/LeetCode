@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0461-hamming-distance](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
