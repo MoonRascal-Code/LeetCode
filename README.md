@@ -177,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0461-hamming-distance](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0002-add-two-numbers) |
+| [0371-sum-of-two-integers](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
